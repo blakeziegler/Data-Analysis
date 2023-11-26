@@ -3,4 +3,4 @@ This repository is designed to showcase various data analysis techniques & skill
 
 Demonstrated Skills:
 
-Blackmore: Intermediate Python Programming Literacy (definitions, loops, iteration, sorting, and organizing); Using Basic Statistical Principals in Python; Python Data Analysis Library Literacy (NumPy, MatPlotLib, pandas, seaborn, SciPy, Plotly). 
+BlakeZiegler_EatingDisorders_Python: Intermediate Python Programming Literacy (definitions, loops, iteration, sorting, and organizing); Using Basic Statistical Principals in Python; Python Data Analysis Library Literacy (NumPy, MatPlotLib, pandas, seaborn, SciPy, Plotly). 
