@@ -1,5 +1,5 @@
 # Data-Analysis
-This repository is designed to showcase various data analysis techniques & skills using real data sets.
+This repository is designed to showcase various data analysis techniques & skills using real data sets. Each file is named in the "BlakeZiegler_*DataTopic*_*Tool/Language*" format.
 
 Demonstrated Skills:
 
